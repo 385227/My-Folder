@@ -12,7 +12,7 @@ import java.awt.print.*;
  */
 /**
  *
- * @author riyan
+ 
  */
 public class Frame1 extends javax.swing.JFrame {
 
